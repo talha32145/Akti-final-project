@@ -25,7 +25,6 @@ This is a **Streamlit-based AI chatbot** that serves as a **customer support ass
    - Provides fallback messages if AI service is unavailable.
 
 🔹 Tech Stack
-
 -Python 3.10
 -Streamlit – Frontend chat interface
 -Pandas – Data handling
