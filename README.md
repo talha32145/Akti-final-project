@@ -24,14 +24,14 @@ This is a **Streamlit-based AI chatbot** that serves as a **customer support ass
    - Handles missing or empty FAQ CSV datasets.
    - Provides fallback messages if AI service is unavailable.
 
-🔹 Tech Stack
--Python 3.10
--Streamlit – Frontend chat interface
--Pandas – Data handling
--NLTK– Text preprocessing (tokenization, stopwords removal, lemmatization)
--Scikit-learn– TF-IDF vectorizer, cosine similarity
--Google Generative AI (Gemini) – Product recommendation
--dotenv– Manage API keys securely
+5.Tech Stack
+   - Python 3.10
+   - Streamlit – Frontend chat interface
+   - Pandas – Data handling
+   - NLTK– Text preprocessing (tokenization, stopwords removal, lemmatization)
+   - Scikit-learn– TF-IDF vectorizer, cosine similarity
+   - Google Generative AI (Gemini) – Product recommendation
+   - dotenv– Manage API keys securely
 
 
 Quick Start
